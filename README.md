@@ -3,3 +3,7 @@
   
   Find cooking steps to your favorite recipes by searching the name of the recipe. 
   
+Overview:\
+Programmatically built UI\
+Get request using Alamofire\
+Decoding and Parsing JSON using SwiftyJSON\
